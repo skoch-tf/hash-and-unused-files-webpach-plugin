@@ -1,0 +1,11 @@
+{
+  "name": "webpack-plugins",
+  "version": "1.0.0",
+  "description": "Change the compilation hash when you change the assets list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
